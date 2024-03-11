@@ -1,4 +1,4 @@
-# find_text_action
+# Find Text Action
 A little script to find text in image and make action
 
 # Description
